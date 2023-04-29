@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "フーリエ変換", "フーリエ変換.vcxproj", "{671AED15-A723-4CDD-AAF5-108569DA332C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{671AED15-A723-4CDD-AAF5-108569DA332C}.Debug|x64.ActiveCfg = Debug|x64
+		{671AED15-A723-4CDD-AAF5-108569DA332C}.Debug|x64.Build.0 = Debug|x64
+		{671AED15-A723-4CDD-AAF5-108569DA332C}.Debug|x86.ActiveCfg = Debug|Win32
+		{671AED15-A723-4CDD-AAF5-108569DA332C}.Debug|x86.Build.0 = Debug|Win32
+		{671AED15-A723-4CDD-AAF5-108569DA332C}.Release|x64.ActiveCfg = Release|x64
+		{671AED15-A723-4CDD-AAF5-108569DA332C}.Release|x64.Build.0 = Release|x64
+		{671AED15-A723-4CDD-AAF5-108569DA332C}.Release|x86.ActiveCfg = Release|Win32
+		{671AED15-A723-4CDD-AAF5-108569DA332C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D88DF9D-6C8D-4DB9-8699-D9AD73829D5C}
+	EndGlobalSection
+EndGlobal
